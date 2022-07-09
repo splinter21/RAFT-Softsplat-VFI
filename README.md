@@ -1,6 +1,6 @@
 # Video Frame Interpolation (RAFT + Softsplat)
 
-Pre-trained weights:
+put the following pre-trained weights into dir 'models':
 
 [RAFT](https://drive.google.com/drive/folders/1sWDsfuZ3Up38EUQt7-JDTT1HcGHuJgvT?usp=sharing)
 
